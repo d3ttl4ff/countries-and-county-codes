@@ -2,8 +2,6 @@
 
 A comprehensive list of country codes along with flags in various formats.
 
-![Demo](demo-screenshot.png)
-
 ## Table of Contents
 
 - [countries-and-county-codes](#countries-and-county-codes)
