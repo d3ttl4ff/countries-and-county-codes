@@ -11,6 +11,8 @@ A comprehensive list of country codes along with flags in various formats.
   - [Flags](#flags)
   - [Formats](#formats)
   - [Installation](#installation)
+    - [Method 1: Clone the Repository](#method-1-clone-the-repository)
+    - [Method 2: Download Specific Format](#method-2-download-specific-format)
 
 ## Description
 
@@ -39,5 +41,19 @@ Sample code for each format is available in the respective format folders.
 
 ## Installation
 
-To obtain the data:
+To obtain the data, you can choose one of the following methods:
+
+### Method 1: Clone the Repository
+
+1. Clone this repository to your local machine using Git:
+
+
+### Method 2: Download Specific Format
+
+1. Navigate to the format folder you need (e.g., `csv`, `json`, `javascript`, or `xml`) in this repository.
+2. Click on the format file you want to download.
+3. The file will be downloaded to your local machine.
+
+Now that you have obtained the data, you can proceed to use it in your projects as described in the [Usage](#usage) section.
+
 
